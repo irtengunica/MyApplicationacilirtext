@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Applicationacilirtext</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="dersler">
+        <item>Android</item>
+        <item>C++</item>
+        <item>Java</item>
+        <item>C#</item>
+        <item>Oyun</item>
+    </string-array>
+</resources>
